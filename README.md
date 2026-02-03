@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/umarzubair10/umarzubair10/main/banner.png" />
+
+
+
 <h1 align="center">Hi 👋, I'm Umar Zubair</h1>
 <h3 align="center">BSCS Computer Science | MERN Stack Developer | Flutter | AI Enthusiast</h3>
 
