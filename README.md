@@ -1,12 +1,10 @@
 <img src="https://raw.githubusercontent.com/umarzubair10/umarzubair10/main/banner.png" />
 
-
-
 <h1 align="center">Hi 👋, I'm Umar Zubair</h1>
 <h3 align="center">BSCS Computer Science | MERN Stack Developer | Flutter | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=umarzubair10&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -42,9 +40,9 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umarzubair10&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarzubair10&theme=tokyonight" />
 </p>
